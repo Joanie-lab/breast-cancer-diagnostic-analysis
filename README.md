@@ -29,4 +29,4 @@ Small dataset, one model and one train-test split, and related measurements make
 Python, pandas, matplotlib, seaborn, scikit-learn, Google Colab
 
 ## Notebook
-See `Breast_Cancer_Diagnostic_Analysis.ipynb` for the full analysis.
+See `Project_Breast_Cancer_Diagnostic_Data_Analysis.ipynb` for the full analysis.
